@@ -1,0 +1,12 @@
+{
+  "name": "logger-package",
+  "version": "1.0.0",
+  "package_name": "logger",
+  "dependencies": {},
+  "buildPath": [
+    {
+      "path": "src",
+      "type": "source"
+    }
+  ]
+}
