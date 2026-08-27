@@ -1,8 +1,10 @@
 {
   "name": "logger-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "package_name": "logger",
-  "dependencies": {},
+  "dependencies": {
+    "greeter": { "repoUrl": "https://github.com/erudys27/greeter.git", "ref": "v1.0.1" }
+  },
   "buildPath": [
     {
       "path": "src",
