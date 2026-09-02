@@ -1,4 +1,4 @@
-class logger.Logger:
+class cw.logger.Logger:
 
     method public character FormatLogLine(input pLevel as character, input pMessage as character):
         return "[" + pLevel + "] " + pMessage.

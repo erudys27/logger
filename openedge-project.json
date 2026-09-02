@@ -1,9 +1,9 @@
 {
   "name": "logger-package",
-  "version": "1.0.1",
-  "package_name": "logger",
+  "version": "1.0.2",
+  "package_name": "cw.logger",
   "dependencies": {
-    "greeter": { "repoUrl": "https://github.com/erudys27/greeter.git", "ref": "v1.0.1" }
+    "greeter": { "repoUrl": "https://github.com/erudys27/greeter.git", "ref": "v1.0.2" }
   },
   "buildPath": [
     {
